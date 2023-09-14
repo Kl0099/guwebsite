@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/guwebsite/static/css/main.5dd4734f.css",
+    "main.js": "/guwebsite/static/js/main.531983ce.js",
+    "static/media/gufinalimg.jpg": "/guwebsite/static/media/gufinalimg.b765a854089167e868c2.jpg",
+    "static/media/LogoGU.png": "/guwebsite/static/media/LogoGU.9a114dea02662a771296.png",
+    "index.html": "/guwebsite/index.html",
+    "main.5dd4734f.css.map": "/guwebsite/static/css/main.5dd4734f.css.map",
+    "main.531983ce.js.map": "/guwebsite/static/js/main.531983ce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5dd4734f.css",
+    "static/js/main.531983ce.js"
+  ]
+}
