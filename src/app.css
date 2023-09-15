@@ -1,0 +1,22 @@
+body{
+     margin: 0;
+     padding: 0;
+      font-family: 'Poppins', sans-serif; 
+     background-color: #f4f4f4;
+}
+
+body::-webkit-scrollbar{
+     width:15px;
+}
+body::-webkit-scrollbar-thumb,
+body::-webkit-scrollbar-track {
+  border-radius: 60px;
+}
+
+body::-webkit-scrollbar-thumb {
+  background: rgb(212, 212, 212);
+}
+
+body::-webkit-scrollbar-track {
+  background: var(--white);
+}
